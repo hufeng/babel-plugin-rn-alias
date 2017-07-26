@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`match-snapshot 1`] = `
+"
+import React from 'qm-react';
+import ReactNative from 'qm-react-native';
+import * as plume2 from 'qm-plume2';"
+`;
+
+exports[`origin code 1`] = `
+"
+import React from 'react';
+import ReactNative from 'react-native';
+import * as plume2 from 'plume2'
+"
+`;
