@@ -1,0 +1,8 @@
+{
+  "name": "babel-plugin-rn-alias",
+  "version": "1.0.0",
+  "main": "./lib/index.js",
+  "repository": "https://github.com/hufeng/babel-plugin-rn-alias.git",
+  "author": "hufeng <hufeng@qianmi.com>",
+  "license": "MIT"
+}
