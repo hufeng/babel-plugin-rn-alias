@@ -2,7 +2,27 @@
   "name": "babel-plugin-rn-alias",
   "version": "1.0.0",
   "main": "./lib/index.js",
-  "repository": "https://github.com/hufeng/babel-plugin-rn-alias.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hufeng/babel-plugin-rn-alias.git"
+  },
   "author": "hufeng <hufeng@qianmi.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "description": "react native need module alias",
+  "bugs": {
+    "url": "https://github.com/hufeng/babel-plugin-rn-alias/issues"
+  },
+  "homepage": "https://github.com/hufeng/babel-plugin-rn-alias#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel",
+    "plugin",
+    "rn",
+    "alias"
+  ]
 }
